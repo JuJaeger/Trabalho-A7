@@ -1,0 +1,27 @@
+.extremos{
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(13, 0, 255));
+}
+
+.azul{
+    color: rgb(0, 89, 255) !important;
+}
+
+.azul_dark{
+    color: rgb(8, 8, 142);
+}
+
+.fundo{
+    background-image: linear-gradient(to bottom right, rgb(2, 2, 2), rgb(45, 60, 77) ,rgb(0, 98, 255));
+}
+
+.degrade_1{
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(76, 76, 84));
+}
+
+.degrade_2{
+    background-image: linear-gradient(to bottom right, rgb(94, 94, 107), rgb(0, 0, 0));
+}
+
+.prateado{
+    color: rgb(50, 70, 220);
+}

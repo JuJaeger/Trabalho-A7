@@ -15,11 +15,11 @@
 }
 
 .degrade_1{
-    background-image: linear-gradient(to bottom right, rgb(94, 94, 107), rgb(0, 0, 0));
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(76, 76, 84));
 }
 
 .degrade_2{
-    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(76, 76, 84));
+    background-image: linear-gradient(to bottom right, rgb(94, 94, 107), rgb(0, 0, 0));
 }
 
 .prateado{
